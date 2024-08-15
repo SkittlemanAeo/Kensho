@@ -16,19 +16,13 @@ We appreciate your interest and encourage you to contribute or follow the projec
 
 ## Table of Contents
 
-Features
-
-Installation 
-
-Usage
-
-Configuration
-
-Contributing
-
-License
-
-Support
+1. Features
+2. Installation 
+3. Usage
+4. Configuration
+5. Contributing
+6. License
+7. Support
 
 ## Features
 
